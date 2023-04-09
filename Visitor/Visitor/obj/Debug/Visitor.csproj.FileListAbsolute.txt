@@ -1,0 +1,7 @@
+C:\Users\naima\source\repos\Visitor\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\naima\source\repos\Visitor\Visitor\bin\Debug\Visitor.exe
+C:\Users\naima\source\repos\Visitor\Visitor\bin\Debug\Visitor.pdb
+C:\Users\naima\source\repos\Visitor\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\Visitor\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\Visitor\Visitor\obj\Debug\Visitor.exe
+C:\Users\naima\source\repos\Visitor\Visitor\obj\Debug\Visitor.pdb
